@@ -1,1 +1,1 @@
-# <a href="https://link.indonesiya.com/">@safelinku</a>
+# <a href="https://safelink.indonesiya.com/">@safelinku</a>
