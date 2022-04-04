@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "kelink",
+    "site": "safelinku",
     "public": "public",
     "ignore": [
       "firebase.json",
